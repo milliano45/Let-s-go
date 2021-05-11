@@ -1,0 +1,98 @@
+
+body{
+  height: 200px;
+  background-color: blue;
+
+}
+#header_container{
+
+  background-color: blue;
+}
+
+
+h1{
+
+}
+h2{
+  margin-top: 20px;
+  font-size:40px;
+  margin-left: 150px;
+  font-family: Century Gathic;
+
+  color: white;
+}
+
+.navbar{
+  position: absolute;
+  background-color: black;
+  width: 90rem;
+  height: 100px;
+  margin-top: -8px;
+  margin-left: -9px;
+}
+
+.search{
+  /* margin-left:300px;
+  margin-top: -20px; */
+
+}
+.search input{
+  position: absolute;
+  float: left;
+  padding: 4px;
+  border-radius: 16px;
+  margin-top: -70px;
+  margin-left: 400px;
+  font-size: 17px;
+  width: 27rem;
+}
+
+ul {
+
+  list-style: none;
+  margin-left:820px;
+  margin-top: -63px;
+  padding: 0;
+}
+
+li {
+    position:relative;
+    display: inline;
+    color: white;
+    font-size: 14px;
+    font-family:Century Gothic;
+}
+
+a {
+  padding: 15px 20px 5px 20px;
+  text-decoration: none;
+  transition: 0.2s linear;
+}
+
+
+.departure{
+  padding: 10px;
+  border-radius: 22px;
+  width: 280px;
+}
+
+button{
+  float: right;
+  margin-top: 350px;
+  margin-right: -25rem;
+  padding: 10px;
+  border-radius: 22px;
+  width: 150px;
+}
+.locator{
+position:static;
+
+}
+
+.locator1{
+  float: left;
+  margin-top: 150px;
+  margin-left: 60px;
+
+
+}
